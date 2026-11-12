@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cyber-legal-kz": {
+      "type": "http",
+      "url": "https://kb.nakasse.kz/mcp/UILhVAKIbCmhNnmerYRWhiunzHFtU58lMZaHDkrrbBI"
+    }
+  }
+}

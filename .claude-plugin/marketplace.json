@@ -1,0 +1,14 @@
+{
+  "name": "cyber-legal-kz-marketplace",
+  "owner": {
+    "name": "cyber-legal-kz"
+  },
+  "plugins": [
+    {
+      "name": "cyber-legal-kz",
+      "source": "./cyber-legal-kz",
+      "version": "0.6.2",
+      "description": "Юрист по кибербезопасности и персональным данным РК: навык и сервер норм"
+    }
+  ]
+}
