@@ -7,7 +7,7 @@
     {
       "name": "cyber-legal-kz",
       "source": "./cyber-legal-kz",
-      "version": "0.11.0",
+      "version": "0.12.0",
       "description": "Юрист по кибербезопасности и персональным данным РК: навык и сервер норм"
     }
   ]
